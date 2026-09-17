@@ -28,3 +28,13 @@ For details about the testbed, attack scenarios, data collection methodology, an
 
 **Analysis and Visualization of Cloud-Native Attacks in a Secure Testbed**
 DOI: https://doi.org/10.5121/ijcnc.2026.18206
+
+## **Authers**
+   
+   1. Dr. T. Subbulakshmi 
+
+   2. Adithyan P
+
+   3. Sidharth M
+   
+   4. Arun Santhosh R A 
